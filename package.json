@@ -1,0 +1,28 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "This is youtub chlone",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dav": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratapgiri/NodeJSBackend.git"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "node"
+  ],
+  "author": "Pratap Giri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratapgiri/NodeJSBackend/issues"
+  },
+  "homepage": "https://github.com/pratapgiri/NodeJSBackend#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
