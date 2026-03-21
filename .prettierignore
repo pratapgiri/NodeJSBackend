@@ -1,0 +1,26 @@
+# Ignore artifacts:
+build/
+dist/
+node_modules/
+
+# Ignore environment files:
+*.env
+.env
+.env.*
+# Ignore logs:
+*.log
+
+# Ignore coverage reports:
+coverage/
+
+#env
+
+
+# Ignore editor-specific files:
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore Prettier configuration:
+.prettierrc
